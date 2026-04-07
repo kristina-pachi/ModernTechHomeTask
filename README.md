@@ -38,6 +38,7 @@
 
 ## Скриншот вывода в консоль
 ![Console Output](data/1.png)
+
 ![Console Output](data/2.png)
 ---
 
