@@ -37,10 +37,11 @@
 ---
 
 ## Скриншот вывода в консоль
-
+![Console Output](data/1.png)
+![Console Output](data/2.png)
 ---
 
 ## ERD 
-
+![Console Output](data/ERD.png)
 ---
 ### ФИО: Пачи Кристина Сергеевна
